@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi y'all, I'm Taylor! 👋🏾
+
+I'm a self-taught technical digital analyst who's investing in some formal front-end development training. 
+
+You can find my coding bootcamp projects here.💁🏾‍♀️
 
 <!--
 **martintaylorj/martintaylorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👩🏾‍💻💁🏾‍♀️
 -->
